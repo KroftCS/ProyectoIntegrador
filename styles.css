@@ -1,4 +1,4 @@
-h1 { text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 25px;
+h1 { text-align: center; background-color: palegoldenrod; font-family: Arial, Helvetica, sans-serif; font-size: 25px;
     color: rgb(98, 42, 24)
 }
 h2 { text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -11,5 +11,5 @@ h3 { text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Luc
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 20;
 }
