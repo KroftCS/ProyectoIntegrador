@@ -40,4 +40,24 @@ main {
 
 .menu a:hover{
     color: #e63548;
+    gap: 20;
+}
+.formulario{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;       
+}
+.boton{
+    background-color: palegoldenrod;
+    border-radius: 20px;
+    border: 2px solid rgb(98, 42, 24);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
